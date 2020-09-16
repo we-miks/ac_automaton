@@ -11,7 +11,7 @@ package main
 
 import (
 "fmt"
-"github.com/mh739025250/ac_automaton"
+"github.com/we-miks/ac_automaton"
 )
 
 func main() {
